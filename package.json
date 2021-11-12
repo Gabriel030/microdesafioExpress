@@ -1,10 +1,10 @@
 {
-  "name": "microdesafioExpress",
+  "name": "microdesafioexpress",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "nodemon app.js -e html, js, mjs,json"
+    "test": "nodemon app.js -e html,js,mjs,json"
   },
   "keywords": [],
   "author": "",
